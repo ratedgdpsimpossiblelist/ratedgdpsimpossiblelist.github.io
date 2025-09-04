@@ -8,5 +8,11 @@
     "percentToQualify": 0,
     "password": "None",
     "records": [
+        {
+            "user": "Davi1233",
+            "link": "https://www.youtube.com/watch?v=hF8nMxp2x48",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
